@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tertiushand-cd714": {
+      "hosting": {
+        "tertiushand": [
+          "tertiushand-cd714"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tertiushand-cd714"
+  }
+}
